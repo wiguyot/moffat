@@ -21,3 +21,9 @@ dist/
 # Fichiers système
 .DS_Store
 Thumbs.db
+
+# Fichier produit par l'application
+IC4604-B_moffat_gui.fit
+
+# Fichiers images non utiles au projet
+IC4604*
